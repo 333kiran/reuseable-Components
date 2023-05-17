@@ -1,0 +1,15 @@
+.btn{
+    background-color:maroon;
+    color:white;
+    width:200px;
+    border:none;
+    height:3rem;
+    margin:4rem 5rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn:hover{
+    background:white;
+    color:maroon;
+}

@@ -1,0 +1,12 @@
+.gallery{
+    display:grid;
+    gap:10px;
+    grid-template-columns: repeat(2,0.3fr);
+    grid-auto-flow: 100px;
+
+}
+
+.img{
+    background-size: cover;
+    background-position: top;
+}
